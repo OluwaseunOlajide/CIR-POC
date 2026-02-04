@@ -1,0 +1,14 @@
+C:\Users\Olajide Ojo\cir-poc\target\release\deps\libserde-ba88bf6ef0484851.rmeta: C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\Olajide\ Ojo\cir-poc\target\release\build\serde-5340e56abe5b6425\out/private.rs
+
+C:\Users\Olajide Ojo\cir-poc\target\release\deps\libserde-ba88bf6ef0484851.rlib: C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\Olajide\ Ojo\cir-poc\target\release\build\serde-5340e56abe5b6425\out/private.rs
+
+C:\Users\Olajide Ojo\cir-poc\target\release\deps\serde-ba88bf6ef0484851.d: C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs C:\Users\Olajide\ Ojo\cir-poc\target\release\build\serde-5340e56abe5b6425\out/private.rs
+
+C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src/lib.rs:
+C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\integer128.rs:
+C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\de.rs:
+C:\Users\Olajide\ Ojo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Olajide\ Ojo\cir-poc\target\release\build\serde-5340e56abe5b6425\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Olajide Ojo\\cir-poc\\target\\release\\build\\serde-5340e56abe5b6425\\out

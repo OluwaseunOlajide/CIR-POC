@@ -1,0 +1,6 @@
+warning: unused manifest key: package.hex
+warning: unused manifest key: package.rand
+warning: unused manifest key: package.sha2
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.23s

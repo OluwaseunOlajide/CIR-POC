@@ -1,0 +1,7 @@
+{
+  "status": "success",
+  "execution_time_ms": 22,
+  "result_hash": "3d250d24d0098e6e826436c791ea75ec37cd9370c8e02d9115979114179e05c9",
+  "tee_provider": "AMD SEV-SNP (Simulated)",
+  "signature": "MOCK_SIGNATURE_FROM_AMD_PROCESSOR_12345"
+}
