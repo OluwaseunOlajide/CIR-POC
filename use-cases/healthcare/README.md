@@ -12,7 +12,7 @@ Hospitals use AI to analyze medical images for disease detection. When inference
 
 This violates **HIPAA regulations** - patient health status is leaked via execution time patterns.
 
-![Healthcare Timing Attack](diagram.png)
+![Healthcare Timing Attack](https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/healthcare/Escalidraw%20CIR%20HIPAA.png)
 
 ## The Solution
 
