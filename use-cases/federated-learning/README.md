@@ -12,7 +12,7 @@ Multiple organizations (hospitals, banks, etc.) collaboratively train AI models 
 
 This discourages participation and undermines the **privacy promise** of federated learning.
 
-![Federated Learning Timing Attack](diagram.png)
+![Federated Learning Timing Attack](https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/federated-learning/federated-learning-use-case.png)
 
 ## The Solution
 
