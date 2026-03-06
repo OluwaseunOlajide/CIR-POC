@@ -12,7 +12,7 @@ Private equity firms and hedge funds use AI to analyze potential investments and
 
 This leaks **alpha** - the information advantage that drives investment returns.
 
-![Finance Timing Attack](diagram.png)
+![Finance Timing Attack](https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/finance/finance-use-case.png)
 
 ## The Solution
 
