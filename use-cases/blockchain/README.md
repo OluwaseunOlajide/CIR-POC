@@ -12,7 +12,7 @@ Decentralized exchanges (DEXs) use AI oracles to detect arbitrage opportunities 
 
 This undermines **fair execution** and creates an unfair advantage for sophisticated attackers.
 
-![Blockchain Timing Attack](diagram.png)
+<img src=>
 
 ## The Solution
 
