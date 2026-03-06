@@ -171,10 +171,6 @@ save_compliance_log(attestation)
 - Hardware signature generation
 - Remote verification protocol
 
-**3. Runtime API**
-- Simple integration with existing models
-- Multiple backend support (SEV-SNP, Nitro, TDX)
-- Compliance mode presets
 
 ### Supported Platforms
 
@@ -188,38 +184,11 @@ save_compliance_log(attestation)
 ---
 
 ## Benchmarks
-
-**Performance overhead: <5% across production deployments**
-
-CIR maintains near-native performance while guaranteeing constant-time execution:
-
-- Timing variance: <1ms (vs 100-300ms in standard runtimes)
-- Memory overhead: ~2-3% additional allocation  
-- CPU overhead: 3-5% average across workloads
-
 **Detailed benchmarks and methodology coming soon.**
 
 ---
 
-## Production Use
-
-CIR is being evaluated and deployed by encrypted AI platforms for:
-
-- **Healthcare:** HIPAA-compliant diagnostic AI
-- **Finance:** Confidential M&A analysis  
-- **Legal:** Privileged document review
-- **DeFi:** Fair oracle execution
-
----
-
 ## Documentation
-
-**Quick links:**
-- [Getting Started Guide](docs/getting-started.md)
-- [Architecture Deep Dive](docs/architecture.md)
-- [API Reference](docs/api-reference.md)
-- [Integration Examples](examples/)
-- [FAQ](docs/faq.md)
 
 **Research paper coming soon on arXiv.**
 
