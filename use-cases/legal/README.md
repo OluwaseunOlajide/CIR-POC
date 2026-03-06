@@ -12,7 +12,7 @@ Law firms use AI to identify privileged attorney-client communications during di
 
 This creates **ethical violations** and undermines the confidentiality that privilege is meant to protect.
 
-![Legal Timing Attack](diagram.png)
+![Legal Timing Attack](https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/legal/legal-use-case.png)
 
 ## The Solution
 
