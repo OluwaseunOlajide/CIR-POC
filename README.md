@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/[YOUR-USERNAME]/cir/blob/main/LICENSE">
+  <a href="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"/>
   </a>
-  <a href="https://github.com/[YOUR-USERNAME]/cir/stargazers">
-    <img src="https://img.shields.io/github/stars/[YOUR-USERNAME]/cir?style=social" alt="GitHub stars"/>
+  <a href="https://github.com/OluwaseunOlajide/CIR-POC/stargazers">
+    <img src="https://img.shields.io/github/stars/OluwaseunOlajide/CIR-POC?style=social" alt="GitHub stars"/>
   </a>
 </p>
 
@@ -68,14 +68,14 @@ CIR solves timing side-channels across industries:
     <td align="center" width="50%">
       <h3>🏥 Healthcare</h3>
       <a href="use-cases/healthcare">
-        <img src="use-cases/healthcare/diagram.png" width="100%"/>
+        <img src="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/healthcare/Escalidraw%20CIR%20HIPAA.png" width="100%"/>
       </a>
       <p><strong>HIPAA-compliant AI diagnostics</strong><br/>Prevent diagnosis leakage via timing</p>
     </td>
     <td align="center" width="50%">
       <h3>💰 Finance</h3>
       <a href="use-cases/finance">
-        <img src="use-cases/finance/diagram.png" width="100%"/>
+        <img src="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/finance/finance-use-case.png" width="100%"/>
       </a>
       <p><strong>Alpha-protected deal analysis</strong><br/>Hide deal importance from competitors</p>
     </td>
@@ -84,14 +84,14 @@ CIR solves timing side-channels across industries:
     <td align="center">
       <h3>⚖️ Legal</h3>
       <a href="use-cases/legal">
-        <img src="use-cases/legal/diagram.png" width="100%"/>
+        <img src="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/legal/legal-use-case.png" width="100%"/>
       </a>
       <p><strong>Privilege-protected document review</strong><br/>Maintain attorney-client confidentiality</p>
     </td>
     <td align="center">
       <h3>⛓️ Blockchain</h3>
       <a href="use-cases/blockchain">
-        <img src="use-cases/blockchain/diagram.png" width="100%"/>
+        <img src="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/blockchain/blockchain-use-case.png" width="100%"/>
       </a>
       <p><strong>MEV-resistant oracles</strong><br/>Fair execution for all traders</p>
     </td>
@@ -100,7 +100,7 @@ CIR solves timing side-channels across industries:
     <td align="center" colspan="2">
       <h3>🤝 Federated Learning</h3>
       <a href="use-cases/federated-learning">
-        <img src="use-cases/federated-learning/diagram.png" width="50%"/>
+        <img src="https://github.com/OluwaseunOlajide/CIR-POC/blob/main/use-cases/federated-learning/federated-learning-use-case.png" width="50%"/>
       </a>
       <p><strong>Privacy-preserving multi-party training</strong><br/>Hide dataset size from participants</p>
     </td>
@@ -253,9 +253,9 @@ Special thanks to the confidential computing community for feedback and discussi
 
 ## Contact
 
-- **Issues:** [GitHub Issues](https://github.com/[YOUR-USERNAME]/cir/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/[YOUR-USERNAME]/cir/discussions)
-- **Email:** [YOUR-EMAIL]
+- **Issues:** [GitHub Issues](https://github.com/OlajideOluwaseun/CIR-POC/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/OlajideOluwaseun/CIR-POC/discussions)
+- **Email:** oluwaseunolajide04@gmail.com 
 
 ---
 
