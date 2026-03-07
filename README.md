@@ -19,7 +19,7 @@
   <a href="#the-problem">Problem</a> •
   <a href="#the-solution">Solution</a> •
   <a href="#use-cases">Use Cases</a> •
-  <a href="#quickstart">Quickstart</a> •
+  <a href="## 🚀 Try It Now">## 🚀 Try It Now</a> •
   <a href="#documentation">Docs</a>
 </p>
 
