@@ -110,50 +110,31 @@ CIR solves timing side-channels across industries:
 [**View detailed use cases →**](use-cases/)
 
 ---
+## 🚀 Try It Now
 
-## Quickstart
+**Run CIR in your browser (no installation required):**
 
-### Installation
-```bash
-pip install cir-runtime
-```
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13yGTDJhOlZcqK_wlKeDDKQAdWFypONa-?usp=sharing)
 
-### Basic Usage
-```python
-from cir import ConstantTimeRuntime
+**Interactive demonstration in 5 parts:**
 
-# Initialize runtime
-runtime = ConstantTimeRuntime(
-    backend='sev-snp',  # Azure SEV-SNP
-    attestation=True
-)
+1. **The Vulnerability** - Standard AI leaks information through timing variance
+2. **The Attack** - Adversary exploits timing to infer sensitive data (95% accuracy)
+3. **The Defense** - CIR provides constant-time execution
+4. **Attack Defeated** - Same adversary reduced to random guessing (50% accuracy)
+5. **Cryptographic Proof** - Hardware attestation verifies constant-time execution
 
-# Load your model
-model = load_model('resnet50')
+**What makes this demo powerful:**
+- ✅ **Real attack simulation** - Not theoretical, proves timing attacks work
+- ✅ **Live defense demonstration** - Shows CIR blocking the attack in real-time
+- ✅ **Cryptographic verification** - Hardware-signed attestation you can verify yourself
+- ✅ **Visual proof** - Graphs showing attack success vs. failure
+- ✅ **Production-ready concepts** - Simulates Azure SEV-SNP, AWS Nitro attestation
 
-# Run constant-time inference
-result = runtime.infer(model, input_data)
+**Runtime: ~2 minutes | No installation required**
 
-# Get hardware attestation proof
-proof = runtime.get_attestation()
-print(f"Timing constant: {proof.timing_verified}")
-print(f"Hardware signature: {proof.signature}")
-```
 
-### HIPAA/Compliance Mode
-```python
-# For healthcare AI requiring HIPAA compliance
-runtime = ConstantTimeRuntime(
-    compliance_mode='HIPAA',
-    audit_logging=True
-)
 
-diagnosis = runtime.infer(medical_model, patient_scan)
-attestation = runtime.get_attestation()
-
-# Save audit trail
-save_compliance_log(attestation)
-```
 
 ---
 
